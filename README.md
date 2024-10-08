@@ -1,7 +1,9 @@
 # BinaryBomb
 
 === IN PROGRESS ===
+<br>
 Phase 1 - due 10/15 11:59 PM
+<br>
 ===================
 
 
